@@ -37,17 +37,6 @@ Team interaction. I am constantly developing and learning new technologies 🧑�
 [![idea](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/)
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
-## 💻 Code example
-*Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.*
-#### Examples
-```javascript
-"This is an example!" ==> "sihT si na !elpmaxe"
-"double  spaces"      ==> "elbuod  secaps"
-```
-#### Solution
-```javascript
-const reverseWords = str => str.split('').reverse().join('').split(' ').reverse().join(' ');
-```
 ## 💼 Experience
 - **myitschool, Belarus** - Mentor - *2022 - Present*
 - **Arteza, USA** - Frontend Developer - *2019 - 2022*
