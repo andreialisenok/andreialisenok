@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Andrei Alisenok ❤️ Frontend Developer
-![Photo](https://avatars.githubusercontent.com/u/29913648?s=100)
 
 ## 🔗 Contact
 - **Location:** Belarus, Minsk
